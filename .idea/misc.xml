@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/drawable/doublehalfcircle.xml" value="0.1945" />
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/drawable/outline_back.xml" value="0.1" />
+        <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/font-v26/fonts.xml" value="0.23854166666666668" />
+        <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/font/fonts.xml" value="0.23854166666666668" />
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/activity_about_page.xml" value="0.25" />
-        <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/activity_detail_page.xml" value="0.17472527472527472" />
+        <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/activity_detail_page.xml" value="0.27936066712995133" />
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
         <entry key="..\:/Project/Android Kotlin/HololiveProfile/app/src/main/res/layout/item_cardview.xml" value="0.17074275362318841" />

@@ -1,19 +1,21 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Hololive EN Profile App</string>
-    <string name="non_official_hololive_profile_app_by_asara_2022">Unofficial Hololive Profile App by Asara\n @2022</string>
+    <string name="non_official_hololive_profile_app_by_asara_2022">Unofficial Hololive Profile App by Asara\n@2022</string>
     <string name="share">Share</string>
     <string name="holo_name">Hololive Name</string>
     <string name="detail">Detail</string>
     <string name="athallah_rizaldi">Athallah Rizaldi</string>
     <string name="athallahrizaldi_gmail_com">athallahrizaldi@gmail.com</string>
     <string name="about">About</string>
+    <string name="name_calliope">Mori Calliope</string>
     <string name="description_calliope">
-        <b>Mori Calliope</b> is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Takanashi Kiara, Watson Amelia and Gawr Gura.
+        is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Takanashi Kiara, Watson Amelia and Gawr Gura.
     </string>
-    <string name="basic_calliope" tools:ignore="Typos"><b>Original Name</b>\n
+    <string name="basic_calliope" tools:ignore="Typos">
+        <b>Original Name</b>\n
         森 カリオペ\n
         もりかりおぺ\n
-        森美声 (formerly used on official website and press releases)\n
+        森美声 \n
         <b>Nickname(s)</b>\n
         Calli\n
         Miss Mori\n
@@ -30,7 +32,7 @@
         Live2D:\n
         <a href="https://twitter.com/MegaJujube">Jujube (base)</a>\n
         <a href="https://twitter.com/FELUCCACHAN">FELUCCA (dress)</a>\n
-        <b>"Smol" Design</b>\n
+        <b>\"Smol\" Design</b>\n
         Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
         Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
         <b>Affiliation</b>\n
@@ -61,10 +63,14 @@
         <b>Emoji</b>\n
         💀
     </string>
-    <string name="basic_takanashi"><b>Original Name</b>\n
-        ??????\n
-        ???????\n
-        ??? (formerly used on official website and press releases)\n
+    <string name="name_takanashi">Takanashi Kiara</string>
+    <string name="description_takanashi">
+        is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Watson Amelia, Mori Calliope and Gawr Gura.
+    </string>
+    <string name="basic_takanashi">
+        <b>Original Name</b>\n
+        小鳥遊キアラ\n
+        たかなしきあら\n
         <b>Nickname(s)</b>\n
         Kusotori (Crappy Bird) (by Mori Calliope)\n
         Tenchou\n
@@ -77,7 +83,7 @@
         <a href="https://twitter.com/keffiy">keffiy (Current/base)</a>\n
         <a href="https://twitter.com/wonimura47041">Wonimura (dress)</a>\n
         3D Model: <a href="https://twitter.com/KarakuriPower">KarakuriPower</a>\n
-        <b>"Smol" Design</b>\n
+        <b>\"Smol\" Design</b>\n
         Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
         Live2D: <a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
         <b>Affiliation</b>\n
@@ -90,7 +96,7 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/takanashikiara">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/takanashi-kiara/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/takanashi-kiara/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_takanashi">
         <b>Gender</b>\n
@@ -100,14 +106,19 @@
         <b>Birthday</b>\n
         6 July\n
         <b>Height</b>\n
-        165 cm (5'5)\n
+        165 cm (5\'5)\n
         <b>Zodiac Sign</b>\n
         Cancer\n
         <b>Emoji</b>\n
-
+        🐔
     </string>
-    <string name="basic_ninomae"><b>Original Name</b>\n
-        ?????/????????\n
+    <string name="name_ninomae">Ninomae Ina\'nis</string>
+    <string name="description_ninomae">
+        is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Watson Amelia, Mori Calliope and Gawr Gura.
+    </string>
+    <string name="basic_ninomae">
+        <b>Original Name</b>\n
+        一伊那尓栖/にのまえいなにす\n
         <b>Nickname(s)</b>\n
         Ina\n
         TAKO\n
@@ -119,7 +130,7 @@
         <a href="https://twitter.com/rariemonn765">rariemonn (Original/Base)</a>\n
         <a href="https://twitter.com/MegaJujube">Jujube (Second Costume)</a>\n
         <a href="https://twitter.com/BrianTsuii">Brian Tsui (Third costume)</a>\n
-        <b>"Smol" Design</b>\n
+        <b>\"Smol\" Design</b>\n
         Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
         Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
         <b>Affiliation</b>\n
@@ -131,24 +142,29 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/ninomaeinanis">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/ninomae-inanis/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ninomae-inanis/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_ninomae">
         <b>Gender</b>\n
         Female\n
         <b>Age</b>\n
-        ¦¦¦¦ (somebody spilled ink on the page!!)\n
+        ████ (somebody spilled ink on the page!!)\n
         <b>Birthday</b>\n
         20 May\n
         <b>Height</b>\n
-        157 cm (5'2) [with shoes](5'5)\n
+        157 cm (5\'2) [with shoes](5\'5)\n
         <b>Zodiac Sign</b>\n
         Taurus\n
         <b>Emoji</b>\n
-
+        🐙
     </string>
-    <string name="basic_gawr"><b>Original Name</b>\n
-        ???·??\n
+    <string name="name_gawr">Takanashi Kiara</string>
+    <string name="description_gawr">
+        is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Watson Amelia, Mori Calliope and Gawr Gura.\nGura is currently the most subscribed VTuber worldwide, taking the #1 spot from industry pioneer Kizuna AI in 2021. As of August 2022, Gura has over 4 million YouTube subscribers.
+    </string>
+    <string name="basic_gawr">
+        <b>Original Name</b>\n
+        がうる・ぐら\n
         <b>Nickname(s)</b>\n
         Same-chan\n
         Apex Predator\n
@@ -162,7 +178,7 @@
         Live2D:\n
         <a href="https://twitter.com/Shin_umiushi_o">Shin Umiushi (Original)</a>\n
         <a href="https://twitter.com/BrianTsuii">BrianTsuii (Third Costume/New year)</a>\n
-        <b>"Smol" Design</b>\n
+        <b>\"Smol\" Design</b>\n
         Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
         Live2D: <a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
         <b>Affiliation</b>\n
@@ -175,7 +191,7 @@
         <a href="https://twitter.com/gawrgura">Twitter</a>\n
         <a href="https://www.tiktok.com/@gawrgura_holoen">TikTok</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/gawr-gura">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/gawr-gura">hololive.hololivepro.com</a>
     </string>
     <string name="personal_gawr">
         <b>Gender</b>\n
@@ -185,14 +201,19 @@
         <b>Birthday</b>\n
         20 June\n
         <b>Height</b>\n
-        141 cm(5'5)\n
+        141 cm(5\'5)\n
         <b>Zodiac Sign</b>\n
         Gemini\n
         <b>Emoji</b>\n
-
+        🔱
     </string>
-    <string name="basic_watson"><b>Original Name</b>\n
-        ????·????\n
+    <string name="name_watson">Watson Amelia</string>
+    <string name="description_watson">
+        is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Watson Amelia, Mori Calliope and Gawr Gura.
+    </string>
+    <string name="basic_watson">
+        <b>Original Name</b>\n
+        ワトソン・アメリア\n
         <b>Nickname(s)</b>\n
         Ame\n
         Amechan\n
@@ -206,7 +227,7 @@
         Live2D:\n
         <a href="https://twitter.com/7name_">Naname (Current/base)</a>\n
         <a href="https://twitter.com/FELUCCACHAN">FELUCCA (Dress)</a>\n
-        <b>"Smol" Design</b>\n
+        <b>\"Smol\" Design</b>\n
         Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
         Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
         VR Model:\n
@@ -226,25 +247,30 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/watsonameliaEN">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/watson-amelia">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/watson-amelia">hololive.hololivepro.com</a>
     </string>
     <string name="personal_watson">
         <b>Gender</b>\n
         Female\n
         <b>Age</b>\n
-        -\n
+        /-\n
         <b>Birthday</b>\n
         6 January\n
         <b>Height</b>\n
-        150 cm (4'11)\n
+        150 cm (4\'11)\n
         <b>Zodiac Sign</b>\n
         Capricorn\n
         <b>Emoji</b>\n
-
+        🔎
     </string>
-    <string name="basic_irys"><b>Original Name</b>\n
-        ¦¦¦¦¦¦¦ Irys\n
-        ????\n
+    <string name="name_irys">IRyS</string>
+    <string name="description_irys">
+        is an English Virtual Singer associated with hololive as part of its English (EN) branch\'s "Project: HOPE."
+    </string>
+    <string name="basic_irys">
+        <b>Original Name</b>\n
+        ███████ Irys\n
+        アイリス\n
         <b>Nickname(s)</b>\n
         HOPE\n
         YabaIRyS\n
@@ -253,7 +279,7 @@
         <b>Character Designer</b>\n
         Illustration: <a href="https://twitter.com/shiru">redjuice</a>\n
         Live2D: <a href="https://twitter.com/rariemonn765">rariemonn</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -265,7 +291,7 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/irys_en">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/irys">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/irys">hololive.hololivepro.com</a>
     </string>
     <string name="personal_irys">
         <b>Gender</b>\n
@@ -279,12 +305,17 @@
         <b>Zodiac Sign</b>\n
         Pisces\n
         <b>Emoji</b>\n
-
+        💎
     </string>
-    <string name="basic_ceres"><b>Original Name</b>\n
-        ???·????\n
+    <string name="name_ceres">Ceres Fauna</string>
+    <string name="description_ceres">
+        is an English-language Virtual YouTuber associated with hololive. She debuted in 2021 as part of hololive -Council-, the second generation of members of hololive English, alongside Tsukumo Sana, Ouro Kronii, Nanashi Mumei and Hakos Baelz.
+    </string>
+    <string name="basic_ceres">
+        <b>Original Name</b>\n
+        セレス・ファウナ\n
         <b>Nickname(s)</b>\n
-        Keeper of "Nature"\n
+        Keeper of \"Nature\"\n
         Faufau\n
         Ceres Faun (-Ministry- persona)\n
         Emo Fauna\n
@@ -296,7 +327,7 @@
         Live2D:\n
         <a href="https://twitter.com/rariemonn765">rariemonn (Original/base)</a>\n
         <a href="https://twitter.com/sei_soy">Soy (New year)</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -308,7 +339,7 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/ceresfauna">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/ceres-fauna/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ceres-fauna/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_ceres">
         <b>Gender</b>\n
@@ -318,14 +349,19 @@
         <b>Birthday</b>\n
         21 March\n
         <b>Height</b>\n
-        164 cm (5'5")\n
+        164 cm (5\'5)\n
         <b>Zodiac Sign</b>\n
         Aries\n
         <b>Emoji</b>\n
-
+        🌿
     </string>
-    <string name="basic_ouro"><b>Original Name</b>\n
-        ???·????\n
+    <string name="name_ouro">Ouro Kronii</string>
+    <string name="description_ouro">
+        is an English-language Virtual YouTuber associated with hololive. She debuted in 2021 as part of hololive -Council-, the second generation of members of hololive English, alongside Tsukumo Sana, Ceres Fauna, Nanashi Mumei and Hakos Baelz.
+    </string>
+    <string name="basic_ouro">
+        <b>Original Name</b>\n
+        オーロ・クロニー\n
         <b>Nickname(s)</b>\n
         Warden of "Time"\n
         Kronini\n
@@ -337,7 +373,7 @@
         <b>Character Designer</b>\n
         Illustration: <a href="https://twitter.com/tsubuanfes">WADARCO</a>\n
         Live2D: <a href="https://twitter.com/keffiy">Keffiy</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -350,7 +386,7 @@
         <a href="https://twitter.com/ourokronii">Twitter</a>\n
         <a href="https://www.tiktok.com/@ourokronii_holoen">TikTok</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/ouro-kronii/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ouro-kronii/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_ouro">
         <b>Gender</b>\n
@@ -360,14 +396,19 @@
         <b>Birthday</b>\n
         14 March\n
         <b>Height</b>\n
-        168 cm (5'6")\n
+        168 cm (5\'6)\n
         <b>Zodiac Sign</b>\n
         Pisces\n
         <b>Emoji</b>\n
-
+        ⏳
     </string>
-    <string name="basic_nanashi"><b>Original Name</b>\n
-        ?????\n
+    <string name="name_nanashi">Nanashi Mumei</string>
+    <string name="description_nanashi">
+        is an English-language Virtual YouTuber associated with hololive. She debuted in 2021 as part of hololive -Council-, the second generation of members of hololive English, alongside Tsukumo Sana, Ceres Fauna, Ouro Kronii and Hakos Baelz.
+    </string>
+    <string name="basic_nanashi">
+        <b>Original Name</b>\n
+        七詩ムメイ\n
         <b>Nickname(s)</b>\n
         Guardian of "Civilization"\n
         Meimei\n
@@ -380,7 +421,7 @@
         Live2D:\n
         <a href="https://twitter.com/rariemonn765">rariemonn (Original/base)</a>\n
         <a href="https://twitter.com/FELUCCACHAN">FELUCCA (New Year)</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -392,24 +433,29 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/nanashimumei_en">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/nanashi-mumei/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/nanashi-mumei/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_nanashi">
         <b>Gender</b>\n
         Female\n
         <b>Age</b>\n
-        ???????\n
+        \?\?\?\?\?\?\?\n
         <b>Birthday</b>\n
         4 August\n
         <b>Height</b>\n
-        156 cm (5'1")\n
+        156 cm (5\'1)\n
         <b>Zodiac Sign</b>\n
         Leo\n
         <b>Emoji</b>\n
-
+        &#129718;
     </string>
-    <string name="basic_hakos"><b>Original Name</b>\n
-        ???·????\n
+    <string name="name_hakos">Hakos Baelz</string>
+    <string name="description_hakos">
+        is an English speaking Virtual YouTuber associated with hololive. She debuted in 2021 as part of hololive -Council-, the second generation of members of hololive English, alongside Tsukumo Sana, Ceres Fauna, Ouro Kronii and Nanashi Mumei.
+    </string>
+    <string name="basic_hakos">
+        <b>Original Name</b>\n
+        ハコス・ベールズ\n
         <b>Nickname(s)</b>\n
         Chaos\n
         Bae\n
@@ -421,7 +467,7 @@
         <b>Character Designer</b>\n
         Illustration: <a href="https://twitter.com/MikaPikazo">Mika Pikazo</a>\n
         Live2D:<a href="https://twitter.com/MegaJujube">Jujube</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -434,7 +480,7 @@
         <a href="https://twitter.com/hakosbaelz">Twitter</a>\n
         <a href="https://www.tiktok.com/@hakosbaelz_holoen">TikTok</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/hakos-baelz/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/hakos-baelz/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_hakos">
         <b>Gender</b>\n
@@ -444,14 +490,19 @@
         <b>Birthday</b>\n
         29 February\n
         <b>Height</b>\n
-        149 cm (4'11")\n
+        149 cm (4\'11)\n
         <b>Zodiac Sign</b>\n
         Pisces\n
         <b>Emoji</b>\n
-
+        🎲
     </string>
-    <string name="basic_tsukumo"><b>Original Name</b>\n
-        ??? ??\n
+    <string name="name_tsukumo">Tsukumo Sana</string>
+    <string name="description_tsukumo">
+        was an English Virtual YouTuber associated with hololive. She debuted in 2021 as part of hololive -Council-, the second generation of members of hololive English, alongside Ceres Fauna, Ouro Kronii, Nanashi Mumei and Hakos Baelz.
+    </string>
+    <string name="basic_tsukumo">
+        <b>Original Name</b>\n
+        九十九 佐命\n
         <b>Nickname(s)</b>\n
         Speaker of "Space"\n
         Tsukumo San (-Ministry- persona)\n
@@ -463,7 +514,7 @@
         <b>Character Designer</b>\n
         Illustration: <a href="https://twitter.com/pakosun">pako</a>\n
         Live2D:<a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
-        <b>"Beeg Smol" Design</b>\n
+        <b>\"Beeg Smol\" Design</b>\n
         Illustration: Herself\n
         3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
         <b>Affiliation</b>\n
@@ -475,7 +526,7 @@
         <b>Social Media</b>\n
         <a href="https://twitter.com/tsukumosana">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/tsukumo-sana/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/tsukumo-sana/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_tsukumo">
         <b>Gender</b>\n
@@ -485,17 +536,22 @@
         <b>Birthday</b>\n
         10 June\n
         <b>Height</b>\n
-        With limiter: 169 cm (5'7")\n
+        With limiter: 169 cm (5\'7)\n
         Without limiter: 1,697,840 km (1,054,989 mi)\n
         <b>Weight</b>\n
         Heavier than a supermassive black hole!\n
         <b>Zodiac Sign</b>\n
         Gemini\n
         <b>Emoji</b>\n
-
+        🪐
     </string>
-    <string name="basic_omega"><b>Original Name</b>\n
-        ???a\n
+    <string name="name_omega">Omegaα (Omega Alpha)</string>
+    <string name="description_omega">
+        is a figure associated with hololive English. They were revealed during the hololive English -Council- debut collab in 2021. It is not yet known if or when they will debut as a VTuber or merely appear in a support role for hololive English.
+    </string>
+    <string name="basic_omega">
+        <b>Original Name</b>\n
+        オメガα\n
         <b>Character Designer</b>\n
         Illustration: <a href="https://twitter.com/fuzichoco">Fuzi Choco</a>\n
         <b>Affiliation</b>\n
@@ -505,7 +561,7 @@
         <b>Channel</b>\n
         <a href="https://www.youtube.com/channel/UCKYyiJwNg2nV7hM86U5_wvw">YouTube</a>\n
         <b>Social Media</b>\n
-        <a href="https://twitter.com/omegaalpha_en">Twitter</a>\n
+        <a href="https://twitter.com/omegaalpha_en">Twitter</a>
     </string>
     <string name="personal_omega">
         <b>Gender</b>\n
@@ -513,14 +569,19 @@
         <b>Birthday</b>\n
         32 December\n
         <b>Height</b>\n
-        175 cm (5'9")\n
+        175 cm (5\'9)\n
         <b>Zodiac Sign</b>\n
         Capricorn\n
         <b>Emoji</b>\n
-
+        🔚
     </string>
-    <string name="basic_motoaki"><b>Japanese Name</b>\n
-        ?? ??\n
+    <string name="name_motoaki">Motoaki Tanigo</string>
+    <string name="description_motoaki">
+        is the CEO of COVER Corporation. His nickname among the talents and many fans. The name YAGOO originated from one of Roboco\'s streams, where Subaru read "Tanigo" as "Yagoo".
+    </string>
+    <string name="basic_motoaki">
+        <b>Japanese Name</b>\n
+        谷郷 元昭\n
         <b>English Name</b>\n
         Motoaki Tanigo\n
     </string>
@@ -530,19 +591,23 @@
         <b>Social Media</b>\n
         <a href="https://www.twitter.com/tanigox">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://cover-corp.com/">???????</a>\n
+        <a href="https://cover-corp.com/">カバー株式会社</a>\n
         <b>Other</b>\n
-        <a href="https://note.com/tanigo">tanigo - note</a>\n
+        <a href="https://note.com/tanigo">tanigo - note</a>
     </string>
     <string name="personal_motoaki">
         <b>Gender</b>\n
         Male\n
         <b>Birthday</b>\n
         10 December\n
-
     </string>
-    <string name="basic_yuujin"><b>Original Name</b>\n
-        ??A\n
+    <string name="name_yuujin">Yuujin A (Friend A)</string>
+    <string name="description_yuujin">
+        better known as A-chan (えーちゃん), is a female Japanese head content director, equipment technician and Virtual YouTuber associated with hololive. A-chan also serves as the narrator in most collaboration videos uploaded to hololive\'s Japanese channel. She used to be in charge of the technical aspects of Tokino Sora\'s live streams.
+    </string>
+    <string name="basic_yuujin">
+        <b>Original Name</b>\n
+        友人A\n
         <b>Nickname(s)</b>\n
         A-chan\n
         <b>Debut Date</b>\n
@@ -557,11 +622,11 @@
     </string>
     <string name="media_yuujin">
         <b>Channel</b>\n
-        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive's Group channel)</a>\n
+        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive\'s Group channel)</a>\n
         <b>Social Media</b>\n
         <a href="https://twitter.com/achan_UGA">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/friend-a/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/friend-a/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_yuujin">
         <b>Gender</b>\n
@@ -573,10 +638,15 @@
         <b>Zodiac Sign</b>\n
         Pisces\n
         <b>Emoji</b>\n
-
+        👓
     </string>
-    <string name="basic_harusaki"><b>Original Name</b>\n
-        ?????\n
+    <string name="name_harusaki">Harusaki Nodoka</string>
+    <string name="description_harusaki">
+       is a female staff member and virtual YouTuber associated with hololive.
+    </string>
+    <string name="basic_harusaki">
+        <b>Original Name</b>\n
+        春先のどか\n
         <b>Debut Date</b>\n
         YouTube: 2022/04/01\n
         <b>Character Designer</b>\n
@@ -586,11 +656,11 @@
     </string>
     <string name="media_harusaki">
         <b>Channel</b>\n
-        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive's Group channel)</a>\n
+        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive\'s Group channel)</a>\n
         <b>Social Media</b>\n
         <a href="https://twitter.com/harusakinodoka">Twitter</a>\n
         <b>Official Website</b>\n
-        <a href="https://hololive.hololivepro.com/en/talents/harusaki-nodoka/">hololive.hololivepro.com</a>\n
+        <a href="https://hololive.hololivepro.com/en/talents/harusaki-nodoka/">hololive.hololivepro.com</a>
     </string>
     <string name="personal_harusaki">
         <b>Gender</b>\n
@@ -602,7 +672,7 @@
         <b>Zodiac Sign</b>\n
         Taurus\n
         <b>Emoji</b>\n
-
+        📝
     </string>
     <string name="hololive_profile_picture">Hololive Profile Picture</string>
     <string name="description">Description</string>
@@ -610,4 +680,9 @@
     <string name="personal_detail">Personal Detail</string>
     <string name="media">Media</string>
     <string name="hololive_production">Hololive Production</string>
+    <string name="unofficial_hololive_profile_app_by_asara_2022">Unofficial Hololive Profile App by Asara @2022</string>
+    <string name="basic_details"><b>Basic Detail</b></string>
+    <string name="personal_details"><b>Personal Detail</b></string>
+    <string name="medias"><b>Media</b></string>
+    <string name="name">Name</string>
 </resources>

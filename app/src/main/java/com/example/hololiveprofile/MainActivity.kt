@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem) = when (item.itemId) {
-        R.id.action_favorite -> {
+        R.id.about -> {
             val moveIntent = Intent(this@MainActivity, AboutPage::class.java)
             startActivity(moveIntent)
             true

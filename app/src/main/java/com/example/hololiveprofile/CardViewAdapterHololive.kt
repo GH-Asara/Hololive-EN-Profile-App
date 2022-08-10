@@ -33,7 +33,7 @@ class CardViewAdapterHololive(private val listHero: ArrayList<Hololive>) :
         holder.btnShare.setOnClickListener {
             val intent = Intent(Intent.ACTION_SEND)
             intent.type = "text/plain"
-            val shareBody = "Check out Hololive on their website! \n https://en.hololive.tv/"
+            val shareBody = "Check out " + hero.name + " at Hololive official website! \n https://en.hololive.tv/"
             val shareSubject = "Hey! Check out this great Project!"
             intent.putExtra(Intent.EXTRA_TEXT, shareBody)
             intent.putExtra(Intent.EXTRA_SUBJECT, shareSubject)

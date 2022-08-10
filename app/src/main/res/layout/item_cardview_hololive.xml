@@ -34,10 +34,11 @@
             android:layout_marginRight="16dp"
             android:layout_marginBottom="8dp"
             android:layout_toEndOf="@id/img_item_photo"
-            android:textSize="16sp"
+            android:fontFamily="@font/rubik_regular"
+            android:textColor="@color/white"
+            android:textSize="20sp"
             android:textStyle="bold"
-            tools:text="@string/holo_name"
-            android:textColor="@color/white"/>
+            tools:text="@string/holo_name" />
 
         <TextView
             android:id="@+id/tv_item_detail"
@@ -51,6 +52,7 @@
             android:ellipsize="end"
             android:maxLines="5"
             android:textColor="@color/white"
+            android:fontFamily="@font/rubik_regular"
             tools:text="@string/detail" />
         <LinearLayout
             android:id="@+id/layout_button"
@@ -68,6 +70,7 @@
                 android:layout_weight="1"
                 android:text="@string/share"
                 android:textSize="16sp"
+                android:fontFamily="@font/rubik_regular"
                 card_view:cornerRadius="10sp"
                 card_view:strokeColor="@color/holo5"
                 card_view:strokeWidth="10dp"/>

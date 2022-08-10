@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="holo1">#27c7fe</color>
+    <color name="holo2">#60ddec</color>
+    <color name="holo3">#29c5ff</color>
+    <color name="holo4">#519cf0</color>
+    <color name="holo5">#90a7bf</color>
+</resources>

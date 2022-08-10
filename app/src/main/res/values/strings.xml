@@ -1,0 +1,613 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Hololive EN Profile App</string>
+    <string name="non_official_hololive_profile_app_by_asara_2022">Unofficial Hololive Profile App by Asara\n @2022</string>
+    <string name="share">Share</string>
+    <string name="holo_name">Hololive Name</string>
+    <string name="detail">Detail</string>
+    <string name="athallah_rizaldi">Athallah Rizaldi</string>
+    <string name="athallahrizaldi_gmail_com">athallahrizaldi@gmail.com</string>
+    <string name="about">About</string>
+    <string name="description_calliope">
+        <b>Mori Calliope</b> is an English Virtual YouTuber associated with hololive, debuting as part of its English (EN) branch first generation of VTubers alongside Ninomae Ina\'nis, Takanashi Kiara, Watson Amelia and Gawr Gura.
+    </string>
+    <string name="basic_calliope" tools:ignore="Typos"><b>Original Name</b>\n
+        森 カリオペ\n
+        もりかりおぺ\n
+        森美声 (formerly used on official website and press releases)\n
+        <b>Nickname(s)</b>\n
+        Calli\n
+        Miss Mori\n
+        CallioP\n
+        Dad\n
+        Kawaiiope\n
+        Calvin Mori (male persona)\n
+        YUNG SH1N1GAM1 B01 (male rapper persona)\n
+        C-Man (male persona self-nickname)\n
+        <b>Debut Date</b>\n
+        YouTube: 2020/09/12\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/y_k_sme">Yukisame</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/MegaJujube">Jujube (base)</a>\n
+        <a href="https://twitter.com/FELUCCACHAN">FELUCCA (dress)</a>\n
+        <b>"Smol" Design</b>\n
+        Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
+        Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_calliope">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg">YouTube</a>
+        <a href="https://www.twitch.tv/moricalliope_hololiveen">Twitch</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/moricalliope">Twitter</a>
+        <a href="https://www.tiktok.com/@moricalliope_hololiveen">TikTok</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/mori-calliope/">hololive.hololivepro.com</a>
+        <a href="https://www.universal-music.co.jp/mori-calliope/">Universal Music Japan</a>
+    </string>
+    <string name="personal_calliope">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        No\n
+        <b>Birthday</b>\n
+        4 April\n
+        <b>Height</b>\n
+        167 cm (5\'6)\n
+        <b>Zodiac Sign</b>\n
+        Aries\n
+        <b>Emoji</b>\n
+        💀
+    </string>
+    <string name="basic_takanashi"><b>Original Name</b>\n
+        ??????\n
+        ???????\n
+        ??? (formerly used on official website and press releases)\n
+        <b>Nickname(s)</b>\n
+        Kusotori (Crappy Bird) (by Mori Calliope)\n
+        Tenchou\n
+        Kiwawa\n
+        <b>Debut Date</b>\n
+        YouTube: 2020/09/12\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/hukeweb">hukeweb</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/keffiy">keffiy (Current/base)</a>\n
+        <a href="https://twitter.com/wonimura47041">Wonimura (dress)</a>\n
+        3D Model: <a href="https://twitter.com/KarakuriPower">KarakuriPower</a>\n
+        <b>"Smol" Design</b>\n
+        Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
+        Live2D: <a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_takanashi">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww">YouTube</a>\n
+        <a href="https://www.youtube.com/channel/UCq4ky2drohLT7W0DmDEw1dQ">Secondary Channel</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/takanashikiara">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/takanashi-kiara/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_takanashi">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        Eternal\n
+        <b>Birthday</b>\n
+        6 July\n
+        <b>Height</b>\n
+        165 cm (5'5)\n
+        <b>Zodiac Sign</b>\n
+        Cancer\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_ninomae"><b>Original Name</b>\n
+        ?????/????????\n
+        <b>Nickname(s)</b>\n
+        Ina\n
+        TAKO\n
+        <b>Debut Date</b>\n
+        YouTube: 2020/09/13\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/kuroboshi">Kuroboshi Kouhaku</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/rariemonn765">rariemonn (Original/Base)</a>\n
+        <a href="https://twitter.com/MegaJujube">Jujube (Second Costume)</a>\n
+        <a href="https://twitter.com/BrianTsuii">Brian Tsui (Third costume)</a>\n
+        <b>"Smol" Design</b>\n
+        Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
+        Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_ninomae">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/ninomaeinanis">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ninomae-inanis/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_ninomae">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        ¦¦¦¦ (somebody spilled ink on the page!!)\n
+        <b>Birthday</b>\n
+        20 May\n
+        <b>Height</b>\n
+        157 cm (5'2) [with shoes](5'5)\n
+        <b>Zodiac Sign</b>\n
+        Taurus\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_gawr"><b>Original Name</b>\n
+        ???·??\n
+        <b>Nickname(s)</b>\n
+        Same-chan\n
+        Apex Predator\n
+        City Pop Shark\n
+        Samegaki\n
+        Goomba\n
+        <b>Debut Date</b>\n
+        YouTube: 2020/09/13\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Nachoneko">Amashiro Natsuki</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/Shin_umiushi_o">Shin Umiushi (Original)</a>\n
+        <a href="https://twitter.com/BrianTsuii">BrianTsuii (Third Costume/New year)</a>\n
+        <b>"Smol" Design</b>\n
+        Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
+        Live2D: <a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_gawr">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/gawrgura">Twitter</a>\n
+        <a href="https://www.tiktok.com/@gawrgura_holoen">TikTok</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/gawr-gura">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_gawr">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        between 9,000 and 10,000 years old (has forgotten exact number after ~5,000 years)\n
+        <b>Birthday</b>\n
+        20 June\n
+        <b>Height</b>\n
+        141 cm(5'5)\n
+        <b>Zodiac Sign</b>\n
+        Gemini\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_watson"><b>Original Name</b>\n
+        ????·????\n
+        <b>Nickname(s)</b>\n
+        Ame\n
+        Amechan\n
+        Ground Pounder\n
+        Gremlin Ame\n
+        Armando Watson (male persona)\n
+        <b>Debut Date</b>\n
+        YouTube: 2020/09/13\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Aoi_Nabi">Aoi Nabi</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/7name_">Naname (Current/base)</a>\n
+        <a href="https://twitter.com/FELUCCACHAN">FELUCCA (Dress)</a>\n
+        <b>"Smol" Design</b>\n
+        Illustration: <a href="https://twitter.com/walfieee">Walfie</a>\n
+        Live2D: <a href="https://twitter.com/haruki_saotome">Haruki Saotome</a>\n
+        VR Model:\n
+        <a href="https://steamcommunity.com/id/tcbtck">CURRY</a>\n
+        <a href="https://twitter.com/SeafoamBoi">SeafoamBoy (2nd VR Model)</a>\n
+        <a href="https://twitter.com/Hasksoft">Hask (Bee Model &#38; Buff Model)</a>\n
+        <a href="https://twitter.com/Twilight_3D">Twilight_3D (Armando Watson)</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_watson">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg">YouTube</a>\n
+        <a href="http://www.twitch.tv/watsonamelia_hololiveen?sr=a">Twitch</a>\n
+        <a href="https://www.tiktok.com/@watsonamelia_holoen">TikTok</a>\n
+        <a href="http://www.twitch.tv/bubb4bot?sr=a">Twitch (bubb4bot)</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/watsonameliaEN">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/watson-amelia">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_watson">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        -\n
+        <b>Birthday</b>\n
+        6 January\n
+        <b>Height</b>\n
+        150 cm (4'11)\n
+        <b>Zodiac Sign</b>\n
+        Capricorn\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_irys"><b>Original Name</b>\n
+        ¦¦¦¦¦¦¦ Irys\n
+        ????\n
+        <b>Nickname(s)</b>\n
+        HOPE\n
+        YabaIRyS\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/07/11\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/shiru">redjuice</a>\n
+        Live2D: <a href="https://twitter.com/rariemonn765">rariemonn</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_irys">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/irys_en">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/irys">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_irys">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        As long as hope has been in your heart\n
+        <b>Birthday</b>\n
+        7 March\n
+        <b>Height</b>\n
+        166 cm (with heels)\n
+        <b>Zodiac Sign</b>\n
+        Pisces\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_ceres"><b>Original Name</b>\n
+        ???·????\n
+        <b>Nickname(s)</b>\n
+        Keeper of "Nature"\n
+        Faufau\n
+        Ceres Faun (-Ministry- persona)\n
+        Emo Fauna\n
+        anuaF\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/08/23\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/asagi_0398">Asagi Tosaka</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/rariemonn765">rariemonn (Original/base)</a>\n
+        <a href="https://twitter.com/sei_soy">Soy (New year)</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_ceres">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/ceresfauna">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ceres-fauna/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_ceres">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        4.54 billion years old\n
+        <b>Birthday</b>\n
+        21 March\n
+        <b>Height</b>\n
+        164 cm (5'5")\n
+        <b>Zodiac Sign</b>\n
+        Aries\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_ouro"><b>Original Name</b>\n
+        ???·????\n
+        <b>Nickname(s)</b>\n
+        Warden of "Time"\n
+        Kronini\n
+        Kroniicopter\n
+        Kronster (by Mori Calliope)\n
+        Ouro Krono (-Ministry- persona)\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/08/23\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/tsubuanfes">WADARCO</a>\n
+        Live2D: <a href="https://twitter.com/keffiy">Keffiy</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_ouro">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/c/OuroKroniiCh">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/ourokronii">Twitter</a>\n
+        <a href="https://www.tiktok.com/@ourokronii_holoen">TikTok</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/ouro-kronii/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_ouro">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        8\n
+        <b>Birthday</b>\n
+        14 March\n
+        <b>Height</b>\n
+        168 cm (5'6")\n
+        <b>Zodiac Sign</b>\n
+        Pisces\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_nanashi"><b>Original Name</b>\n
+        ?????\n
+        <b>Nickname(s)</b>\n
+        Guardian of "Civilization"\n
+        Meimei\n
+        Moomers\n
+        Nanashi Muman (-Ministry- persona)\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/08/23\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/azure_0608_sub">Azure</a>\n
+        Live2D:\n
+        <a href="https://twitter.com/rariemonn765">rariemonn (Original/base)</a>\n
+        <a href="https://twitter.com/FELUCCACHAN">FELUCCA (New Year)</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_nanashi">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/nanashimumei_en">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/nanashi-mumei/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_nanashi">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        ???????\n
+        <b>Birthday</b>\n
+        4 August\n
+        <b>Height</b>\n
+        156 cm (5'1")\n
+        <b>Zodiac Sign</b>\n
+        Leo\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_hakos"><b>Original Name</b>\n
+        ???·????\n
+        <b>Nickname(s)</b>\n
+        Chaos\n
+        Bae\n
+        Bae Maji Tenshi (BMT)\n
+        Hakotaro (in a reference to <a href="http://en.wikipedia.org/wiki/Hamtaro">Hamtaro</a>)\n
+        Hayko Baelz (-Ministry- persona)\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/08/23\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/MikaPikazo">Mika Pikazo</a>\n
+        Live2D:<a href="https://twitter.com/MegaJujube">Jujube</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: <a href="https://virtualyoutuber.fandom.com/wiki/Tsukumo_Sana">Tsukumo Sana</a>\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_hakos">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/hakosbaelz">Twitter</a>\n
+        <a href="https://www.tiktok.com/@hakosbaelz_holoen">TikTok</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/hakos-baelz/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_hakos">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        "Roll a dice"[sic]\n
+        <b>Birthday</b>\n
+        29 February\n
+        <b>Height</b>\n
+        149 cm (4'11")\n
+        <b>Zodiac Sign</b>\n
+        Pisces\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_tsukumo"><b>Original Name</b>\n
+        ??? ??\n
+        <b>Nickname(s)</b>\n
+        Speaker of "Space"\n
+        Tsukumo San (-Ministry- persona)\n
+        Sananana\n
+        <b>Debut Date</b>\n
+        YouTube: 2021/08/23\n
+        <b>Retirement Date</b>\n
+        2022/07/31\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/pakosun">pako</a>\n
+        Live2D:<a href="https://virtualyoutuber.fandom.com/wiki/Ilie_Tou">Ilie Tou</a>\n
+        <b>"Beeg Smol" Design</b>\n
+        Illustration: Herself\n
+        3D Model: <a href="https://twitter.com/SeafoamBoi">SeafoamBoi</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_tsukumo">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/tsukumosana">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/tsukumo-sana/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_tsukumo">
+        <b>Gender</b>\n
+        Female\n
+        <b>Age</b>\n
+        13,800,000,000 years old\n
+        <b>Birthday</b>\n
+        10 June\n
+        <b>Height</b>\n
+        With limiter: 169 cm (5'7")\n
+        Without limiter: 1,697,840 km (1,054,989 mi)\n
+        <b>Weight</b>\n
+        Heavier than a supermassive black hole!\n
+        <b>Zodiac Sign</b>\n
+        Gemini\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_omega"><b>Original Name</b>\n
+        ???a\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/fuzichoco">Fuzi Choco</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive">hololive English</a>
+    </string>
+    <string name="media_omega">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCKYyiJwNg2nV7hM86U5_wvw">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/omegaalpha_en">Twitter</a>\n
+    </string>
+    <string name="personal_omega">
+        <b>Gender</b>\n
+        Genderless\n
+        <b>Birthday</b>\n
+        32 December\n
+        <b>Height</b>\n
+        175 cm (5'9")\n
+        <b>Zodiac Sign</b>\n
+        Capricorn\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_motoaki"><b>Japanese Name</b>\n
+        ?? ??\n
+        <b>English Name</b>\n
+        Motoaki Tanigo\n
+    </string>
+    <string name="media_motoaki">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCu2DMOGLeR_DSStCyeQpi5Q">YouTube</a>\n
+        <b>Social Media</b>\n
+        <a href="https://www.twitter.com/tanigox">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://cover-corp.com/">???????</a>\n
+        <b>Other</b>\n
+        <a href="https://note.com/tanigo">tanigo - note</a>\n
+    </string>
+    <string name="personal_motoaki">
+        <b>Gender</b>\n
+        Male\n
+        <b>Birthday</b>\n
+        10 December\n
+
+    </string>
+    <string name="basic_yuujin"><b>Original Name</b>\n
+        ??A\n
+        <b>Nickname(s)</b>\n
+        A-chan\n
+        <b>Debut Date</b>\n
+        2017/09/21\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/ordan">Ordan</a>\n
+        Live2D:<a href="https://twitter.com/MegaJujube">Jujube</a>\n
+        3D Model:\n
+        <a href="https://twitter.com/schwarz_blk">schwarz (current)</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive#Staff">hololive</a>
+    </string>
+    <string name="media_yuujin">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive's Group channel)</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/achan_UGA">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/friend-a/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_yuujin">
+        <b>Gender</b>\n
+        Female\n
+        <b>Birthday</b>\n
+        28 February 2001\n
+        <b>Blood Type</b>\n
+        A\n
+        <b>Zodiac Sign</b>\n
+        Pisces\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="basic_harusaki"><b>Original Name</b>\n
+        ?????\n
+        <b>Debut Date</b>\n
+        YouTube: 2022/04/01\n
+        <b>Character Designer</b>\n
+        Illustration: <a href="https://twitter.com/ordan">Ordan</a>\n
+        <b>Affiliation</b>\n
+        <a href="https://virtualyoutuber.fandom.com/wiki/Hololive#Staff">hololive</a>
+    </string>
+    <string name="media_harusaki">
+        <b>Channel</b>\n
+        <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">YouTube (hololive's Group channel)</a>\n
+        <b>Social Media</b>\n
+        <a href="https://twitter.com/harusakinodoka">Twitter</a>\n
+        <b>Official Website</b>\n
+        <a href="https://hololive.hololivepro.com/en/talents/harusaki-nodoka/">hololive.hololivepro.com</a>\n
+    </string>
+    <string name="personal_harusaki">
+        <b>Gender</b>\n
+        Female\n
+        <b>Birthday</b>\n
+        7 May\n
+        <b>Height</b>\n
+        154 cm\n
+        <b>Zodiac Sign</b>\n
+        Taurus\n
+        <b>Emoji</b>\n
+
+    </string>
+    <string name="hololive_profile_picture">Hololive Profile Picture</string>
+    <string name="description">Description</string>
+    <string name="basicdetail">BasicDetail</string>
+    <string name="personal_detail">Personal Detail</string>
+    <string name="media">Media</string>
+    <string name="hololive_production">Hololive Production</string>
+</resources>

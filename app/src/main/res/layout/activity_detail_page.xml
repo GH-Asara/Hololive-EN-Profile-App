@@ -84,6 +84,7 @@
                     android:layout_height="25sp"
                     android:orientation="vertical"
                     android:background="@color/holo4"
+                    android:gravity="center"
                     android:layout_gravity="center">
                     <TextView
                         android:layout_width="wrap_content"
@@ -91,6 +92,7 @@
                         android:fontFamily="@font/rubik_regular"
                         android:paddingHorizontal="5sp"
                         android:layout_gravity="center"
+                        android:gravity="center"
                         android:layout_marginHorizontal="2.5sp"
                         android:text="@string/basic_details"
                         android:textColor="@color/white"
@@ -120,6 +122,7 @@
                     android:layout_height="25sp"
                     android:orientation="vertical"
                     android:background="@color/holo4"
+                    android:gravity="center"
                     android:layout_gravity="center">
                     <TextView
                         android:layout_width="wrap_content"
